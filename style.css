@@ -1,5 +1,5 @@
 :root{
-    --green: #00FF00;
+    --orange:#ff9100;
     --white: #FFFFFF;
     --black: #000000;
 }
@@ -30,7 +30,7 @@ li{
 }
 
 .tema-claro{
-    --bg: var(--green);
+    --bg: var(--orange);
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
@@ -38,7 +38,7 @@ li{
 
 .tema-escuro{
     --bg: var(--black);
-    --fontColor: var(--green);
+    --fontColor: var(--orange);
     --btnBg: var(--white);
     --btnFontColor: var(--black);
 }
